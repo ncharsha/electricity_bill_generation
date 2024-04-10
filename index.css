@@ -1,0 +1,16 @@
+#formid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-image: url("./elec.jpg");
+    background-size: cover;
+    height: 500px;
+}
+
+#rrnoinput {
+    border: 1px black solid;
+    border-radius: 3px;
+    padding: 5px;
+    margin: 10px;
+}
